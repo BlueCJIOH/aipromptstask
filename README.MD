@@ -397,7 +397,7 @@ markdown:
 Ты: ¡Hola! Claro que sí. Ofrecemos plataformas de perforación de núcleo capaces de alcanzar profundidades de hasta 2,000 metros, equipadas con sistemas automatizados para mayor eficiencia. ¿Podría compartir más detalles sobre sus necesidades específicas para recomendarle la mejor opción?
 ```
 
-## Примеры диалогов <br>
+## Примеры диалогов
 !!! все ответы в markdown предоставляются для frontend-разработчиков, чтобы можно было парсить для отображения в ```<span> {{text}} </span>```, например
 
 ### Сценарий 1: Первичное обращение
